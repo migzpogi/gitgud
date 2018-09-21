@@ -1,1 +1,3 @@
-[ ] Map  
+[X] Map  
+[ ] Filter
+[ ] Reduce
