@@ -1,3 +1,4 @@
 [X] Map  
-[ ] Filter
+[X] Filter
 [ ] Reduce
+[ ] Yield
